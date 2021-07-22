@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to draw and watch Anime.
 
 ---
-
+*The 1st ever poketwo captcha solver is here .
 
 # PokéviL SelfBot
 ![image](https://cdn.discordapp.com/avatars/844213425680416838/3bc96ea5512cbb081e511e72449efaf7.png)
@@ -47,7 +47,7 @@ This specific selfbot was designed to automatically catch Pokemon spawned on Dis
  ![image](https://cdn.discordapp.com/attachments/827130387825295381/867694840175263744/Screenshot_20210722-143910.jpg)
  
  * Check my user id before sending dm about Autoctcher "436174832439394305"
- * Please dm me only for donations . Currently the price is just $35 initial payment. Better donate fast as the price will be bound to go up along with the demand.
+ * Please dm me only for donations . Currently the price is just $9 initial payment. Better donate fast as the price will be bound to go up along with the demand.
  * For more details join our discord server 
 
 ---
