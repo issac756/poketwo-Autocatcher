@@ -11,6 +11,7 @@
 
 # PokéviL SelfBot
 ![image](https://cdn.discordapp.com/avatars/844213425680416838/3bc96ea5512cbb081e511e72449efaf7.png)
+
 ![Python Version](https://img.shields.io/badge/python-3.8-blue.svg?style=for-the-badge) ![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge) ![Maintained?](https://img.shields.io/badge/Maintained%3F-Premium%20Version+-red.svg?style=for-the-badge) 
 
 This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
