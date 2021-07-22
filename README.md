@@ -58,7 +58,7 @@ This specific selfbot was designed to automatically catch Pokemon spawned on Dis
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Shorts - Issue 3 - How I plan out my day as a Software Developer](https://www.youtube.com/watch?v=JbYSNA5MqM0)
+- [AutoCatcher promotion](https://www.youtube.com/watch?)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
