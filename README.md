@@ -71,7 +71,7 @@ This specific selfbot was designed to automatically catch Pokemon spawned on Dis
 ## Disclaimer ⚠️
 * The creators of this bot are not responsible for any actions you perform using it. Use it at you own risk.
 * Selfbots violate discord & PokeTwo TOS and you will get banned if caught using them. Be careful about how you use the bot.
-  > The selfbot is intended to give you a boost and get the edge over your friends, not hoard 40K pokemon lol.
+  > The selfbot is intended to give you a boost and get the edge over your friends, not hoard 400K pokemon lol.
 * Do not use this in official PokeTwo Discord server.... for obvious reasons.
   > Similarly do not use in public servers which explicitly prohibit this.
 * The implications of ban might also affect other accounts which interact with this selfbot. Use with caution.  
