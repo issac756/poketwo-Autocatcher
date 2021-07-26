@@ -49,7 +49,7 @@ This specific selfbot was designed to automatically catch Pokemon spawned on Dis
  ![image](https://cdn.discordapp.com/attachments/827130387825295381/867694840175263744/Screenshot_20210722-143910.jpg)
  
  * Check my user id before sending dm about Autoctcher "436174832439394305"
- * Please dm me only for donations . Currently the price is just $9 initial payment. Better donate fast as the price will be bound to go up along with the demand.
+ * Please dm me only for donations . Currently the price is just $15 initial payment. Better donate fast as the price will be bound to go up along with the demand.
  * For more details join our discord server 
 
 ---
