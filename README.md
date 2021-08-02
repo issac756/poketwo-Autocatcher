@@ -66,7 +66,14 @@ This specific selfbot was designed to automatically catch Pokemon spawned on Dis
 * Selfbots violate discord & PokeTwo TOS and you will get banned if caught using them. Be careful about how you use the bot.
 * Do not use this in official PokeTwo Discord server.... for obvious reasons.
 * The implications of ban might also affect other accounts which interact with this selfbot. Use with caution.  
+---
 
+# Terms & Conditions
+1. You will receive the bot with the deployment instructions after the payment has been acknowledged.
+2. You will get `licence key` , using it multiple times or passing the code with `licence key` may get your AutoCatcher terminated. So if anyone wanna buy please refer them to us.
+3. Since Poketwo keeps updating , Stay patient until I patch the error for it.
+4. All donations are non-refundable.
+5. I (and others contributors) for this repo not responsible for any legal suits.
  
 
 [course]: http://vsCodeHero.com
