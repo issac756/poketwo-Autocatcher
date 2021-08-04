@@ -24,7 +24,7 @@
   <a href="https://www.python.org/downloads/release/python-366/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=for-the-badge">
 </a>
   <a href="https://discord.gg/gkq3nSQfkA" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of pokevil"/>
+<img src="https://img.shields.io/discord/827129879682220043?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of pokevil"/>
 </a>
 </p>
 <p align="center">
