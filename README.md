@@ -63,8 +63,8 @@
 
 ---
 
-# Discord Server
-1. link:- [discord server](https://discord.gg/Q3QcfKqT2U) 
+# Support
+If you have an issue with Autocatcher. **DM ME ON DISCORD.**  If you have questions about a Autocatcher feel free to talk to me via my [support channel](https://discord.gg/gkq3nSQfkA). I receive notifications for that channel and will respond as soon as I am able. 
 ---
 
 ### 📺 Latest YouTube Videos
