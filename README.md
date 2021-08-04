@@ -7,21 +7,37 @@
 - ⚡ Fun fact: I love to draw and watch Anime.
 
 ---
-## Poketwo captcha solver!!
-* The 1st ever poketwo captcha solver is here .
----
+<h1 align="center">
+  <br>
+  <a href="https://github.com/issac756/poketwo-Autocatcher/"><img src="https://cdn.discordapp.com/avatars/844213425680416838/3bc96ea5512cbb081e511e72449efaf7.png" alt="Captcha Solver" width="200"></a>
+  <br>
+  Poketwo Captcha solver
+  <br>
+</h1>
+
+<h4 align="center"></h4>
+
+<p align="center">
+  <a href="https://paypal.me/">
+    <img src="https://img.shields.io/badge/paypal-donate-red.svg">
+  </a>
+  <a href="https://www.python.org/downloads/release/python-366/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=for-the-badge">
+</a>
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#support">Support</a> •
+</p>
 
 # PokéviL SelfBot
-![image](https://cdn.discordapp.com/avatars/844213425680416838/3bc96ea5512cbb081e511e72449efaf7.png)
 
-![Python Version](https://img.shields.io/badge/python-3.8-blue.svg?style=for-the-badge) ![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge) 
-
-This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
+>This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
 
 ![proof](https://media.discordapp.net/attachments/827130387825295381/867774914290253844/Screenshot_20210722-195728.jpg)
 
 ---
-
 
 **PokéviL now detects Gen 8 Pokemons as well!**
 
