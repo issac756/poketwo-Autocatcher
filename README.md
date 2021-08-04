@@ -27,6 +27,11 @@
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of pokevil"/>
 </a>
 </p>
+<p align="center">
+    <a href="https://github.com/issac756/poketwo-Autocatcher/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/issac756/poketwo-Autocatcher/issues/new/choose">Request Feature</a>
+</p>
 
 <p align="center">
   <a href="#overview">Overview</a> •
