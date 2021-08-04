@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#installation">Installation</a> •
+  <a href="#Installation">Installation</a> •
   <a href="#support">Support</a> •
 </p>
 
@@ -84,7 +84,8 @@ If you have an issue with Autocatcher. **DM ME ON DISCORD.**  If you have questi
 * The implications of ban might also affect other accounts which interact with this selfbot. Use with caution.  
 ---
 
-# Terms & Conditions
+# Installation
+>Terms & Conditions
 1. You will receive the bot with the deployment instructions after the payment has been acknowledged.
 2. You will get `licence key` , using it multiple times or passing the code with `licence key` may get your AutoCatcher terminated. So if anyone wanna buy please refer them to us.
 3. Since Poketwo keeps updating , Stay patient until I patch the error for it.
