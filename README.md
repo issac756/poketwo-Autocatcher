@@ -43,7 +43,7 @@
 
 >This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
 
-![proof](https://github.com/issac756/poketwo-Autocatcher/blob/main/proof%20(1).gif)
+![proof](https://github.com/issac756/poketwo-Autocatcher/blob/main/assets/captcha%20(1).gif)
 
 ---
 
