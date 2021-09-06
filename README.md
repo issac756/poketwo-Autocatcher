@@ -67,7 +67,7 @@
  
  * Check my user id before sending dm about Autoctcher 
 >436174832439394305
- * Please dm me only for donations . Currently the price is just $35. 
+ * Please dm me only for donations . Currently the price is just $20. 
  * For more details join our discord server 
 
 ---
